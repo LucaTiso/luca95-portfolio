@@ -3,7 +3,7 @@
 <h2>Web development projects:</h2>
 
 - <b>Webapp with scraped movies data and reviews from Metacritic</b>
-  - [Metacritic web scaraper]()
+  - [Metacritic web scraper](https://github.com/LucaTiso/movie-web-scraper)
   - [Application back end]()
   - [Applicaton front end]()
 
