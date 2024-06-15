@@ -8,8 +8,10 @@
   - [Applicaton front end]()
 
 <h2>Coding challenges:</h2>
+  - [Sudoku solver]()
 
 
-
-<h2>Unity projects:</h2>
-
+<h2>Game deveolpment projects:</h2>
+- <b>Flappy bird clone</b>
+  - [Code repository]()
+  - [Build webgl]()
