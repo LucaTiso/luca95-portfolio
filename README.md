@@ -8,10 +8,12 @@
   - [Applicaton front end]()
 
 <h2>Coding challenges:</h2>
+
   - [Sudoku solver]()
 
 
 <h2>Game deveolpment projects:</h2>
+
 - <b>Flappy bird clone</b>
-  - [Code repository]()
-  - [Build webgl]()
+  - [Code](https://github.com/LucaTiso/flappy-bird)
+  - [Build webgl](https://play.unity.com/mg/other/webgl-builds-391979)
