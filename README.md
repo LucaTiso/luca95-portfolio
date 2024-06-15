@@ -4,7 +4,7 @@
 
 - <b>Webapp with scraped movies data and reviews from Metacritic</b>
   - [Metacritic web scraper](https://github.com/LucaTiso/movie-web-scraper)
-  - [Application back end]()
+  - [Application back end](https://github.com/LucaTiso/movie-reviews)
   - [Applicaton front end]()
 
 <h2>Coding challenges:</h2>
