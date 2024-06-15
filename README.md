@@ -9,8 +9,7 @@
 
 <h2>Coding challenges:</h2>
 
-  - [Sudoku solver]()
-
+  - [Sudoku solver](https://github.com/LucaTiso/sudoku-solver)
 
 <h2>Game deveolpment projects:</h2>
 
